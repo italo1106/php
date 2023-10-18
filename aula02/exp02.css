@@ -1,0 +1,23 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+h1{
+background-color: aqua;
+}
+.stilo{
+ background-color: yellow;   
+}
+.conteudo{
+    background-color: rgb(49, 3, 85);
+    height: 300px;
+}
+.conteudo p{
+    background-color: rgb(172, 0, 181);
+}
+.conteudo #titulo{
+    font-size: 50px;
+}
+p{
+    background-color: bisque;
+}
