@@ -7,7 +7,8 @@
 </head>
 <body>
     <?
-    echo "teste de php";
+    echo "restriçao de php";
+    echo "restrição de html";
     ?>
 </body>
 </html>
